@@ -1,0 +1,50 @@
+.modalTitle {
+    background: #FFF;
+    box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.20);
+    padding: 20px 20px;
+}
+
+.waveBackground1 {
+    position: relative;
+    width: 318px;
+    height: auto;
+    background-image: url('../../../../assets/bottom-waver-bg.svg');
+    background-size: cover 100%; /* Adjust background size as needed */
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    overflow: hidden;
+    padding: 20px 30px;
+    padding-bottom: 100px;
+}
+
+.waveBackground2 {
+    position: relative;
+    width: 318px;
+    height: auto;
+    background-image: url('../../../../assets/bottom-waver-bg2.svg');
+    background-size: cover 100%; /* Adjust background size as needed */
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    overflow: hidden;
+    padding: 20px 30px;
+    padding-bottom: 250px;
+}
+
+.waveLabel {
+    color: #767676;
+    margin-top: 5px;
+}
+
+.waveItem {
+    font-weight:500;
+    padding-left: 20px;
+}
+
+.label {
+    font-weight: 600;
+}
+
+.sublabel {
+    font-size: 13px;
+    padding-bottom: 5px;
+}
