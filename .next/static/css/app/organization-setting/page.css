@@ -1,0 +1,61 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./app/organization-setting/component/organization-detail/index.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************/
+.organization-detail_modalTitle__i2Tjt {
+    background: #FFF;
+    box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.20);
+    padding: 20px 20px;
+}
+
+.organization-detail_waveBackground1__mSBYm {
+    position: relative;
+    width: 318px;
+    height: auto;
+    background-image: url(/_next/static/media/bottom-waver-bg.4cd797e5.svg);
+    background-size: cover 100%; /* Adjust background size as needed */
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    overflow: hidden;
+    padding: 20px 30px;
+    padding-bottom: 100px;
+}
+
+.organization-detail_waveBackground2__ofEhX {
+    position: relative;
+    width: 318px;
+    height: auto;
+    background-image: url(/_next/static/media/bottom-waver-bg2.2202df27.svg);
+    background-size: cover 100%; /* Adjust background size as needed */
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    overflow: hidden;
+    padding: 20px 30px;
+    padding-bottom: 250px;
+}
+
+.organization-detail_waveLabel__i2In_ {
+    color: #767676;
+    margin-top: 5px;
+}
+
+.organization-detail_waveItem__xBM_f {
+    font-weight:500;
+    padding-left: 20px;
+}
+
+.organization-detail_label__NCq3q {
+    font-weight: 600;
+}
+
+.organization-detail_sublabel__MepHD {
+    font-size: 13px;
+    padding-bottom: 5px;
+}
+
+.organization-detail_card__nMCPn {
+    border: 1px solid rgb(193, 192, 192);
+    background-color: #FFF;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    margin-bottom: 10px;
+}
+
