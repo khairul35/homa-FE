@@ -1,0 +1,3 @@
+interface UsersProps {
+    onBack: () => void;
+}
