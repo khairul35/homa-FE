@@ -1,0 +1,10 @@
+.divider {
+    border-bottom: 1px solid #000;
+}
+
+.addAnotherPersonAnchor {
+    color: #158BB8;
+    padding: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
