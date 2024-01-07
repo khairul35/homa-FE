@@ -2185,6 +2185,9 @@ html {
 .mt-5 {
   margin-top: 1.25rem;
 }
+.ml-1 {
+  margin-left: 0.25rem;
+}
 .flex {
   display: flex;
 }
@@ -2497,6 +2500,9 @@ html {
 }
 .pt-8 {
   padding-top: 2rem;
+}
+.pl-1 {
+  padding-left: 0.25rem;
 }
 .text-center {
   text-align: center;

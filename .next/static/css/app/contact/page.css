@@ -13,6 +13,39 @@
     font-weight: bold;
 }
 
+/*!*************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./app/contact/form/address/index.module.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************/
+.address_divider__nQODO {
+    border-bottom: 1px solid #000;
+}
+
+.address_addAnotherPersonAnchor__rcyry {
+    color: #158BB8;
+    padding: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.address_billingIsDeliveryCheckBox__pt7Y7 {
+    border-radius: 5px;
+    border: 1px solid #a9a6a6;
+    background: #FFF;
+    padding: 5px;
+}
+
+.address_billingIsDeliveryCheckBox__pt7Y7:hover {
+    background: #f4f4f4;
+}
+
+.address_addressContainer__d4Wvs {
+    border-radius: 5px;
+    border: 1px solid #000;
+    background: #FFF;
+    padding: 20px;
+}
+
 /*!*****************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./app/contact/form/index.module.css ***!
   \*****************************************************************************************************************************************************************************************************************************************************************************/
